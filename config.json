@@ -1,0 +1,53 @@
+{
+  "name": "Ana Maria Silva",
+  "job": "Dev Front-end",
+  "github": "anamariasilva",
+  "playlists": {
+    "eventos": [
+      {
+        "title": "Evolução do desenvolvimento front-end com as funcionalidades do HTML5 e CSS3",
+        "url": "https://www.youtube.com/watch?v=04EyBpw86ag&list=PLsulWKCpN0Q7M32JT71pg3zS8w0WHOTHF",
+        "thumb": "https://img.youtube.com/vi/04EyBpw86ag/hqdefault.jpg"
+      },
+      {
+        "title": "IWD Brasil 2022 - Trilha 2: Conhecimentos Técnicos",
+        "url": "https://www.youtube.com/watch?v=thEXIrDN--c&list=PLsulWKCpN0Q7M32JT71pg3zS8w0WHOTHF&index=3",
+        "thumb": "https://img.youtube.com/vi/thEXIrDN--c/hqdefault.jpg"
+      },
+      {
+        "title": "#Esquenta PrograMaria Summit 2022",
+        "url": "https://www.youtube.com/watch?v=dTudfoZX2_A",
+        "thumb": "https://img.youtube.com/vi/dTudfoZX2_A/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+      },
+      {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+        "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+      },
+      {
+        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      }
+    ]
+  }
+}
